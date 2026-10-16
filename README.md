@@ -4,7 +4,7 @@ My project, Dancing with Code is an EDM song made entirely through code. This pr
 
 # Table-of-Contents
 + General Info
-+ Technologies Used
++ References Used
 + Features
 + Screenshots
 + Setup  
