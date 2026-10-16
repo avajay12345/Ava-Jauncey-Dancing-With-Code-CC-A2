@@ -2,7 +2,7 @@
 Creative Coding A2
 My project, Dancing with Code is an EDM song made entirely through code. This project was a challenge for me due to my limited experience with Python and coding in general but through trial and error I had a lot of fun making it. Enjoy!
 
-# Table of Contents
+# Table-of-Contents
 General Info
 Technologies Used
 Features
