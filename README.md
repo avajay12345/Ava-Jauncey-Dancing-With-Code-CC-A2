@@ -14,3 +14,5 @@ My project, Dancing with Code is an EDM song made entirely through code. This pr
 + Acknowledgements
 + Contact
 
+# 1. General Information
+
